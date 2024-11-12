@@ -1,6 +1,6 @@
 # ffTradeAnalyzer
 ## Overview
-The Fantasy Football Trade Analyzer is a mobile application developed using React Native and Expo. It helps fantasy football enthusiasts evaluate and analyze trades by calculating the value of players and teams using custom algorithms.
+The Fantasy Football Trade Analyzer is a mobile application developed using React Native and Expo. It helps fantasy football players evaluate and analyze trades by calculating the value of players and teams using custom algorithms.
 
 ## Features
 - **Trade Analysis**: Evaluate the value of players and teams to determine the winner of a trade.
