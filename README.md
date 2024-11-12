@@ -9,7 +9,7 @@ The Fantasy Football Trade Analyzer is a mobile application developed using Reac
 - **Data Integration**: Integration of player projection data for accurate analysis.
 - **Navigation**: Seamless navigation between screens using React Navigation.
 
-- Usage
+## - Usage
 Open the app on your mobile device or emulator.
 Navigate to the Trade screen to create a new trade.
 Select players and teams to analyze the trade.
